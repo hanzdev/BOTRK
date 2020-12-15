@@ -1,4 +1,4 @@
-# botrk
+# BOTRK
 Python3 Text Crypter - MD5, SHA1, SHA224, SHA256, SHA384, SHA512.
 
 installation: pip3 install -r requirements.txt
